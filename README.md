@@ -14,10 +14,10 @@ TBD
 
 ## Authors
 
-Mathieu Chevalley, GSK plc and ETH Zurich
-Arash Mehrjou, GSK plc
-Patrick Schwab, GSK plc
+Mathieu Chevalley, GSK plc and ETH Zurich<br/>
+Arash Mehrjou, GSK plc<br/>
+Patrick Schwab, GSK plc<br/>
 
 ## Acknowledgements
 
-MC, AM and PS are employees and shareholders of GlaxoSmithKline plc.
+MC, AM and PS are employees and shareholders of GSK plc.
